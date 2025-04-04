@@ -1,0 +1,7 @@
+train: /home/lexington/Studyspace/CEG5303/projects/project1/MyCode/Task2/coco/coco_denfense/train.txt
+val: /home/lexington/Studyspace/CEG5303/projects/project1/MyCode/Task2/coco/coco_denfense/val.txt
+# number of classes
+nc: 7
+
+# class names
+names: ['car', 'bicycle', 'motorcycle', 'bus', 'truck', 'cat', 'dog']

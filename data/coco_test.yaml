@@ -1,0 +1,28 @@
+train: /home/lexington/Studyspace/CEG5303/projects/project1/MyCode/Task2/coco/coco_denfense/train.txt
+val: /home/lexington/Studyspace/CEG5303/projects/project1/MyCode/Task2/coco/coco_test/val.txt
+# number of classes
+nc: 20
+
+# class names
+names: [
+    "airplane",      # aeroplane
+    "bicycle",
+    "bird",
+    "boat",
+    "bottle",
+    "bus",
+    "car",
+    "cat",
+    "chair",
+    "cow",
+    "dining table",  # diningtable
+    "dog",
+    "horse",
+    "motorcycle",    # motorbike
+    "person",
+    "potted plant",  # pottedplant
+    "sheep",
+    "couch",         # sofa
+    "train",
+    "tv"             # tvmonitor
+]
